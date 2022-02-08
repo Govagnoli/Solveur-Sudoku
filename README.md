@@ -6,7 +6,7 @@ Pour utiliser le logiciel lancer le fichier sudoku.gpr avec par exemple l'IDE GN
 Plusieurs grilles de Sudoku sont déjà installées avec différents niveaux de difficultés.
 Pour résoudre les grilles pré-enregistrées, il faut compiler le projet puis : 
   - executer le fichier evaluation.exe
- ou
+  ou
   - executer le fichier affichages_test.exe
 
 Le programme met aussi à disposition pour le développeur des fichiers tests.
